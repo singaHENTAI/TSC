@@ -1,0 +1,36 @@
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		76 838 1689 2706 2907 3213 4062 4207 4283 6038 6151 6596 6692 8785 8813 8821 8822 8885 8906 8934 8972 8973 9028 
+	}
+	manpower=2134000
+	state_category = city
+	resources={
+		steel=8 
+	}
+
+	history={
+		owner = TAT
+		buildings = {
+			infrastructure = 4 #was: 6
+			arms_factory = 2
+			industrial_complex = 4
+		}
+		victory_points = {
+			8813 30
+		}
+		victory_points = {
+			8934 1
+		}
+		add_core_of = RUS
+		add_core_of = TAT
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+	}
+
+	buildings_max_level_factor=1.000
+}

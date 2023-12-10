@@ -1,0 +1,25 @@
+state={
+	id=142
+	name="STATE_142"
+	provinces={
+		289 1169 1322 1330 1365 1401 1465 1812 1850 2814 3852 4037 4331 4363 4485 4515 5385 5470 5546 5708 5797 5915 6045 6068 6453 6633 6890 11097 11170 11183 11202 11264 11300 11321 11342 11345 11363 11426 11436 11444 11445 11469 11497 11512 11522 11555 11584 11630 11665 11681 11722 
+	}
+	manpower=7100342
+	buildings_max_level_factor=1.000
+	state_category = city
+	resources = {
+		steel = 8
+		oil = 24
+	}
+	history={
+		owner = AZR
+		add_core_of = AZR
+		buildings={
+			industrial_complex = 6
+			infrastructure = 3
+		}
+		victory_points = {
+			11584 30
+		}
+	}
+}

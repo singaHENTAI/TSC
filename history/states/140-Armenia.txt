@@ -1,0 +1,25 @@
+state={
+	id=140
+	name="STATE_140"
+	provinces={
+		1702 1852 3138 3221 3435 3548 4007 4203 4573 4656 6071 6560 10816 10895 10921 10952 10981 11182 11451 
+	}
+	manpower=3500123
+	buildings_max_level_factor=1.000
+	state_category = city
+	resources = {
+		steel = 8
+		oil = 4
+	}
+	history={
+		owner = ARM
+		add_core_of = ARM
+		buildings={
+			industrial_complex = 4
+			infrastructure = 4
+		}
+		victory_points = {
+			4656 30
+		}
+	}
+}
